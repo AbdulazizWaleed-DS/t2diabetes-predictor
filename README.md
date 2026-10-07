@@ -27,8 +27,6 @@
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [License](#-license)
-
 ---
 
 ## 🔍 Overview
@@ -232,7 +230,7 @@ t2diabetes-predictor/
 
 ```bash
 # Clone the repository
-git clone githublink
+git clone https://github.com/AbdulazizWaleed-DS/t2diabetes-predictor.git
 cd t2diabetes-predictor
 
 # Create a virtual environment
